@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# script that creates a plot from the rsync logs
+#
+
 FOLDER=${LOGFOLDER}/*
 
 for f in $FOLDER

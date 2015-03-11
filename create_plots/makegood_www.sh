@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# script that creates a plot from all the ping-logs to the google DNS server
+#
 
 FOLDER=${LOGFOLDER}/*
 

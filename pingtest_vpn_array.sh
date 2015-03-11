@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# tool that pings all remote VPN server and logs the whole ping statistics output
+#
 source /home/pi/mount_testing/config.cfg
 
 

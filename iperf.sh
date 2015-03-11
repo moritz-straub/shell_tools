@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# tool that connects to a remote iperf server and logs the bandwidth
+#
 source /home/pi/mount_testing/config.cfg
 
 case "$HOSTNAME" in

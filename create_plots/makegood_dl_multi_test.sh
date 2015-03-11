@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# script that creates a plot from all the download-speed-logs highlighting the Christmas days
+#
 
 FOLDER=${LOGFOLDER}/*2014-12*_100M.txt
 

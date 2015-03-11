@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# tool that pings the google DNS Server and logs the whole ping statistics output
+#
 source /home/pi/mount_testing/config.cfg
 
 
